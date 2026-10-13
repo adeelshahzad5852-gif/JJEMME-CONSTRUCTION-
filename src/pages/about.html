@@ -1,0 +1,90 @@
+<section class="page-hero">
+  <div class="page-hero__bg" style="background-image:{{hero_bg_2}}"></div>
+  <div class="wrap">
+    <div class="crumbs"><a href="index.html">Home</a><span>/</span>About</div>
+    <h1>Who you&#39;re <em>hiring</em></h1>
+    <p>One crew, eight trades, {{biz.languages}}. Serving {{biz.city}} and the surrounding valley.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="split">
+      <div class="split__media reveal">{{pic_about_2}}</div>
+      <div class="reveal">
+        <span class="eyebrow">Our story</span>
+        <h2>Started in a truck.<br>Still on the <span class="accent">job site</span>.</h2>
+        <p class="lede">{{biz.name}} is a {{biz.city}} general contractor working across kitchens, bathrooms, whole-home remodeling and landscaping &mdash; with the plumbing, drywall, paint, flooring and tile all handled in house.</p>
+        <p>Most remodels stall because one trade is waiting on another. That does not happen here &mdash; the same crew carries a job from demolition through to the final clean. The people who quote your work are the people who build it.</p>
+        <p>We stayed deliberately narrow. Kitchens, bathrooms, whole-home renovations, nothing else. It&#39;s the reason our tile work looks the way it does and the reason our schedules hold.</p>
+        <ul class="ticks">
+          <li>{{biz.licenseLine}}</li>
+          <li>Full-time employees, not day-rate subs</li>
+          <li>{{biz.warrantyYears}}-year written workmanship warranty</li>
+          <li>{{biz.reviewAverage}} average across {{biz.reviewCount}} reviews</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="stats">
+  <div class="wrap">
+    <div class="stat"><div class="stat__num">8</div><div class="stat__label">Trades under one roof</div></div>
+    <div class="stat"><div class="stat__num">Free</div><div class="stat__label">On-site estimates</div></div>
+    <div class="stat"><div class="stat__num"><span data-count="{{biz.reviewCount}}">{{biz.reviewCount}}</span></div><div class="stat__label">Client reviews</div></div>
+    <div class="stat"><div class="stat__num"><span data-count="{{biz.warrantyYears}}" data-suffix=" yr">{{biz.warrantyYears}} yr</span></div><div class="stat__label">Workmanship warranty</div></div>
+  </div>
+</section>
+
+<section class="section section--dark">
+  <div class="wrap">
+    <div class="section-head">
+      <span class="eyebrow">How we work</span>
+      <h2>Four steps. No surprises.</h2>
+    </div>
+    <div class="grid grid--4">{{process_steps}}</div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="split split--rev">
+      <div class="split__media reveal">{{pic_process_2}}</div>
+      <div class="reveal">
+        <span class="eyebrow">What you can expect</span>
+        <h2>The boring parts<br>we take <span class="accent">seriously</span></h2>
+        <p>Anyone can show you a finished kitchen. The difference shows up in the nine weeks before it.</p>
+        <ul class="ticks">
+          <li><strong>Dust containment.</strong> Plastic walls and zippered doors before demolition starts, not after.</li>
+          <li><strong>Daily cleanup.</strong> Site swept and tools stowed before the crew leaves.</li>
+          <li><strong>One contact.</strong> Your project manager's mobile number, not a call centre.</li>
+          <li><strong>Written changes.</strong> Nothing gets added to your bill without your signature first.</li>
+          <li><strong>Real timelines.</strong> If something slips, you hear it from us before you notice it.</li>
+        </ul>
+        <div class="btn-row"><a class="btn btn--primary" href="contact.html">Book a free estimate</a></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--alt">
+  <div class="wrap">
+    <div class="section-head section-head--center">
+      <span class="eyebrow">What clients say</span>
+      <h2>In their words</h2>
+    </div>
+    {{testimonials_all}}
+  </div>
+</section>
+
+<section class="cta-band">
+  <div class="cta-band__bg" style="background-image:{{hero_bg_1}}"></div>
+  <div class="wrap"><div class="cta-band__inner">
+    <div><h2>Want a real number?</h2><p>Free in-home estimate, written and itemised. No pressure to sign anything on the day.</p></div>
+    <div class="btn-row" style="margin:0">
+      <a class="btn btn--primary" href="contact.html">Book an estimate</a>
+      <a class="btn btn--outline-light" href="tel:{{biz.phoneRaw}}">{{biz.phone}}</a>
+    </div>
+  </div></div>
+</section>

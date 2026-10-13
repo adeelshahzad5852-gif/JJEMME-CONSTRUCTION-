@@ -1,0 +1,42 @@
+<div class="topbar">
+  <div class="wrap">
+    <div class="topbar__list">
+      <span class="topbar__item"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0z"/><circle cx="12" cy="10" r="3"/></svg>Serving {{biz.city}} &amp; the West Valley</span>
+      <span class="topbar__item"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15 15 0 0 1 0 20 15 15 0 0 1 0-20z"/></svg>{{biz.languages}}</span>
+      <span class="topbar__item"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>{{biz.hours}}</span>
+    </div>
+    <div class="topbar__list">
+      <a class="topbar__item" href="mailto:{{biz.email}}"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-10 6L2 7"/></svg>{{biz.email}}</a>
+    </div>
+  </div>
+</div>
+
+<header class="site-header">
+  <div class="wrap">
+    <a class="logo" href="index.html">
+      <span class="logo__mark" aria-hidden="true">J</span>
+      <span class="logo__text">
+        <span class="logo__name">{{biz.name}}</span>
+        <span class="logo__sub">{{biz.city}}, {{biz.state}}</span>
+      </span>
+    </a>
+
+    <nav class="nav" aria-label="Main">
+      <button class="nav__close" type="button" aria-label="Close menu">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M18 6 6 18M6 6l12 12"/></svg>
+      </button>
+      {{nav}}
+    </nav>
+
+    <div class="header-cta">
+      <span class="header-phone">
+        <span class="header-phone__label">Call for a free estimate</span>
+        <a class="header-phone__num" href="tel:{{biz.phoneRaw}}">{{biz.phone}}</a>
+      </span>
+      <a class="btn btn--primary" href="contact.html">Free Estimate</a>
+      <button class="burger" type="button" aria-label="Menu" aria-expanded="false" aria-controls="main">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </div>
+</header>

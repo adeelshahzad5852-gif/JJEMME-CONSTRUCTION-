@@ -1,0 +1,107 @@
+{
+  "services": [
+    {
+      "name": "Kitchen Remodeling",
+      "slug": "kitchen-remodeling",
+      "img": "kitchen/kitchen-6",
+      "blurb": "Cabinets, counters, flooring and the plumbing behind them — all by the same crew, so nobody is waiting on another trade to show up.",
+      "tags": [
+        "Cabinets & counters",
+        "Flooring",
+        "Plumbing included"
+      ]
+    },
+    {
+      "name": "Bathroom Remodeling",
+      "slug": "bathroom-remodeling",
+      "img": "bath/bath-5",
+      "blurb": "Full bathroom refits — tubs, showers, vanities, tile and the drain work underneath. We are licensed for the plumbing, so there is no second contractor to schedule.",
+      "tags": [
+        "Tubs & showers",
+        "Vanities & tile",
+        "Drains & re-pipes"
+      ]
+    },
+    {
+      "name": "Whole-Home & Landscaping",
+      "slug": "whole-home-remodeling",
+      "img": "home/home-5",
+      "blurb": "Drywall, paint, flooring and doors inside. Pavers, turf, planters and walkways outside. One crew, one number to call, start to finish.",
+      "tags": [
+        "Drywall & paint",
+        "Flooring & doors",
+        "Pavers, turf & planters"
+      ]
+    }
+  ],
+  "process": [
+    {
+      "n": "01",
+      "title": "Free estimate, on site",
+      "body": "We come out, look at the actual job, and give you a price. No charge for the visit and no pressure at the end of it."
+    },
+    {
+      "n": "02",
+      "title": "One written price",
+      "body": "Line by line, so you can see what each part costs. If something changes mid-job you hear about it before we do it, not after."
+    },
+    {
+      "n": "03",
+      "title": "One crew, start to finish",
+      "body": "Plumbing, drywall, paint, flooring and tile are all in house. You are not waiting two weeks for a subcontractor to fit you in."
+    },
+    {
+      "n": "04",
+      "title": "We clean up and walk it with you",
+      "body": "The site gets cleared and swept, then we walk the finished work together before the final invoice."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Josi Valle",
+      "project": "Kitchen remodel · Phoenix",
+      "text": "Highly recommended! We are so happy with the work he did in our kitchen. He installed the cabinets and the marble countertop, and everything looks beautiful. He was very professional, attentive to detail, and worked very cleanly and carefully. He also helped us with our ideas and made the kitchen exactly as we imagined it."
+    },
+    {
+      "name": "Leidy Maribel Isidro Gabriel",
+      "project": "Great price",
+      "text": "Excellent workers and very respectful."
+    },
+    {
+      "name": "Alexis Diaz",
+      "project": "Great price",
+      "text": "Excellent service."
+    },
+    {
+      "name": "Angel",
+      "project": "Great price",
+      "text": "Great work and a great price."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do you speak Spanish?",
+      "a": "Yes. We work in English and Spanish, so you can talk through the job in whichever you are more comfortable with — including the estimate and the written quote."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Yes, licensed and insured in Arizona. We can send the licence number and a certificate of insurance before you commit to anything."
+    },
+    {
+      "q": "Do you do the plumbing yourselves?",
+      "a": "Yes. Plumbing is one of our own trades, which is why kitchens and bathrooms move faster with us — there is no second contractor to book."
+    },
+    {
+      "q": "How much does a kitchen or bathroom cost?",
+      "a": "It depends on size and on what is behind the walls, which is why the estimate is free and done on site. You get one written price before any work starts."
+    },
+    {
+      "q": "Do you do landscaping as well?",
+      "a": "Yes — pavers, turf, walkways, planters and block work. A lot of our customers have us do the yard once we have finished inside."
+    },
+    {
+      "q": "How soon can you start?",
+      "a": "Usually within a week or two for small jobs. Call (602) 921-6819 and we will tell you honestly where the schedule is."
+    }
+  ]
+}

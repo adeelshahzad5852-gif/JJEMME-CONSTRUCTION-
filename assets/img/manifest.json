@@ -1,0 +1,674 @@
+{
+ "hero": [
+  {
+   "file": "hero/hero-1",
+   "src": "k15",
+   "size": [
+    1199,
+    800
+   ]
+  },
+  {
+   "file": "hero/hero-2",
+   "src": "h09",
+   "size": [
+    1199,
+    669
+   ]
+  },
+  {
+   "file": "hero/hero-3",
+   "src": "h10",
+   "size": [
+    1200,
+    800
+   ]
+  },
+  {
+   "file": "hero/hero-5",
+   "src": "k04",
+   "size": [
+    1170,
+    766
+   ]
+  }
+ ],
+ "kitchen": [
+  {
+   "file": "kitchen/kitchen-1",
+   "src": "k04",
+   "size": [
+    1170,
+    766
+   ]
+  },
+  {
+   "file": "kitchen/kitchen-2",
+   "src": "k06",
+   "size": [
+    736,
+    1104
+   ]
+  },
+  {
+   "file": "kitchen/kitchen-3",
+   "src": "k07",
+   "size": [
+    736,
+    1308
+   ]
+  },
+  {
+   "file": "kitchen/kitchen-4",
+   "src": "k08",
+   "size": [
+    736,
+    1008
+   ]
+  },
+  {
+   "file": "kitchen/kitchen-5",
+   "src": "k12",
+   "size": [
+    736,
+    736
+   ]
+  },
+  {
+   "file": "kitchen/kitchen-6",
+   "src": "k15",
+   "size": [
+    1199,
+    800
+   ]
+  },
+  {
+   "file": "kitchen/kitchen-7",
+   "src": "k16",
+   "size": [
+    1200,
+    1200
+   ]
+  },
+  {
+   "file": "kitchen/kitchen-8",
+   "src": "k17",
+   "size": [
+    1080,
+    720
+   ]
+  },
+  {
+   "file": "kitchen/kitchen-9",
+   "src": "k18",
+   "size": [
+    1200,
+    800
+   ]
+  },
+  {
+   "file": "kitchen/kitchen-10",
+   "src": "k19",
+   "size": [
+    1024,
+    683
+   ]
+  },
+  {
+   "file": "kitchen/kitchen-11",
+   "src": "k20",
+   "size": [
+    1024,
+    683
+   ]
+  }
+ ],
+ "bath": [
+  {
+   "file": "bath/bath-1",
+   "src": "b04",
+   "size": [
+    678,
+    1200
+   ]
+  },
+  {
+   "file": "bath/bath-2",
+   "src": "b05",
+   "size": [
+    900,
+    1600
+   ]
+  },
+  {
+   "file": "bath/bath-3",
+   "src": "b07",
+   "size": [
+    768,
+    1024
+   ]
+  },
+  {
+   "file": "bath/bath-4",
+   "src": "b11",
+   "size": [
+    960,
+    1200
+   ]
+  },
+  {
+   "file": "bath/bath-5",
+   "src": "b13",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "bath/bath-6",
+   "src": "b15",
+   "size": [
+    992,
+    1200
+   ]
+  },
+  {
+   "file": "bath/bath-7",
+   "src": "b17",
+   "size": [
+    550,
+    733
+   ]
+  },
+  {
+   "file": "bath/bath-8",
+   "src": "b18",
+   "size": [
+    736,
+    1311
+   ]
+  },
+  {
+   "file": "bath/bath-9",
+   "src": "b19",
+   "size": [
+    736,
+    981
+   ]
+  },
+  {
+   "file": "bath/bath-10",
+   "src": "b22",
+   "size": [
+    474,
+    711
+   ]
+  },
+  {
+   "file": "bath/bath-11",
+   "src": "b26",
+   "size": [
+    980,
+    1225
+   ]
+  },
+  {
+   "file": "bath/bath-12",
+   "src": "b27",
+   "size": [
+    880,
+    1563
+   ]
+  },
+  {
+   "file": "bath/bath-13",
+   "src": "b33",
+   "size": [
+    1122,
+    1402
+   ]
+  },
+  {
+   "file": "bath/bath-14",
+   "src": "b34",
+   "size": [
+    730,
+    548
+   ]
+  },
+  {
+   "file": "bath/bath-15",
+   "src": "b36",
+   "size": [
+    967,
+    644
+   ]
+  }
+ ],
+ "home": [
+  {
+   "file": "home/home-1",
+   "src": "h04",
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  {
+   "file": "home/home-2",
+   "src": "h05",
+   "size": [
+    1200,
+    1596
+   ]
+  },
+  {
+   "file": "home/home-3",
+   "src": "h06",
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  {
+   "file": "home/home-4",
+   "src": "h07",
+   "size": [
+    1200,
+    800
+   ]
+  },
+  {
+   "file": "home/home-5",
+   "src": "h09",
+   "size": [
+    1199,
+    669
+   ]
+  },
+  {
+   "file": "home/home-6",
+   "src": "h10",
+   "size": [
+    1200,
+    800
+   ]
+  },
+  {
+   "file": "home/home-7",
+   "src": "h12",
+   "size": [
+    1200,
+    1165
+   ]
+  },
+  {
+   "file": "home/home-8",
+   "src": "h17",
+   "size": [
+    1022,
+    575
+   ]
+  },
+  {
+   "file": "home/home-9",
+   "src": "h18",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "home/home-10",
+   "src": "h28",
+   "size": [
+    1200,
+    900
+   ]
+  },
+  {
+   "file": "home/home-11",
+   "src": "h31",
+   "size": [
+    1200,
+    800
+   ]
+  },
+  {
+   "file": "home/home-12",
+   "src": "h47",
+   "size": [
+    735,
+    490
+   ]
+  },
+  {
+   "file": "home/home-13",
+   "src": "h52",
+   "size": [
+    736,
+    491
+   ]
+  },
+  {
+   "file": "home/home-14",
+   "src": "h54",
+   "size": [
+    736,
+    414
+   ]
+  }
+ ],
+ "process": [
+  {
+   "file": "process/process-1",
+   "src": "k21",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "process/process-2",
+   "src": "k23",
+   "size": [
+    900,
+    1200
+   ]
+  },
+  {
+   "file": "process/process-3",
+   "src": "k24",
+   "size": [
+    736,
+    1041
+   ]
+  },
+  {
+   "file": "process/process-4",
+   "src": "h02",
+   "size": [
+    1000,
+    1333
+   ]
+  },
+  {
+   "file": "process/process-5",
+   "src": "h14",
+   "size": [
+    1199,
+    1599
+   ]
+  },
+  {
+   "file": "process/process-6",
+   "src": "h22",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "process/process-7",
+   "src": "h23",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "process/process-8",
+   "src": "h26",
+   "size": [
+    1200,
+    1600
+   ]
+  },
+  {
+   "file": "process/process-9",
+   "src": "h36",
+   "size": [
+    736,
+    1308
+   ]
+  },
+  {
+   "file": "process/process-10",
+   "src": "h49",
+   "size": [
+    736,
+    1104
+   ]
+  }
+ ],
+ "ba": [
+  {
+   "label": "bath-1",
+   "src": "b39",
+   "before": [
+    1200,
+    733
+   ],
+   "after": [
+    1200,
+    733
+   ]
+  },
+  {
+   "label": "bath-2",
+   "src": "b40",
+   "before": [
+    1200,
+    742
+   ],
+   "after": [
+    1200,
+    742
+   ]
+  },
+  {
+   "label": "bath-3",
+   "src": "b41",
+   "before": [
+    1200,
+    796
+   ],
+   "after": [
+    1200,
+    796
+   ]
+  },
+  {
+   "label": "bath-4",
+   "src": "b38",
+   "before": [
+    1024,
+    684
+   ],
+   "after": [
+    1024,
+    684
+   ]
+  },
+  {
+   "label": "kitchen-1",
+   "src": "h01",
+   "before": [
+    928,
+    740
+   ],
+   "after": [
+    928,
+    740
+   ]
+  },
+  {
+   "label": "kitchen-2",
+   "src": "h08",
+   "before": [
+    1200,
+    956
+   ],
+   "after": [
+    1200,
+    957
+   ]
+  },
+  {
+   "label": "kitchen-3",
+   "src": "h20",
+   "before": [
+    1200,
+    874
+   ],
+   "after": [
+    1200,
+    875
+   ]
+  },
+  {
+   "label": "kitchen-4",
+   "src": "h57",
+   "before": [
+    736,
+    581
+   ],
+   "after": [
+    736,
+    582
+   ]
+  },
+  {
+   "label": "living-1",
+   "src": "h11",
+   "before": [
+    928,
+    740
+   ],
+   "after": [
+    928,
+    740
+   ]
+  },
+  {
+   "label": "living-2",
+   "src": "h27",
+   "before": [
+    928,
+    740
+   ],
+   "after": [
+    928,
+    740
+   ]
+  },
+  {
+   "label": "living-3",
+   "src": "h30",
+   "before": [
+    1170,
+    791
+   ],
+   "after": [
+    1170,
+    792
+   ]
+  },
+  {
+   "label": "living-4",
+   "src": "h33",
+   "before": [
+    928,
+    740
+   ],
+   "after": [
+    928,
+    740
+   ]
+  },
+  {
+   "label": "living-5",
+   "src": "h34",
+   "before": [
+    1024,
+    570
+   ],
+   "after": [
+    1024,
+    570
+   ]
+  },
+  {
+   "label": "living-6",
+   "src": "h44",
+   "before": [
+    736,
+    491
+   ],
+   "after": [
+    736,
+    491
+   ]
+  },
+  {
+   "label": "exterior-1",
+   "src": "h19",
+   "before": [
+    960,
+    533
+   ],
+   "after": [
+    960,
+    534
+   ]
+  },
+  {
+   "label": "exterior-2",
+   "src": "h48",
+   "before": [
+    600,
+    331
+   ],
+   "after": [
+    600,
+    332
+   ]
+  },
+  {
+   "label": "exterior-3",
+   "src": "h37",
+   "before": [
+    736,
+    442
+   ],
+   "after": [
+    736,
+    442
+   ]
+  },
+  {
+   "label": "living-7",
+   "src": "h16",
+   "before": [
+    512,
+    911
+   ],
+   "after": [
+    512,
+    911
+   ]
+  },
+  {
+   "label": "exterior-4",
+   "src": "h32",
+   "before": [
+    512,
+    870
+   ],
+   "after": [
+    512,
+    870
+   ]
+  }
+ ]
+}

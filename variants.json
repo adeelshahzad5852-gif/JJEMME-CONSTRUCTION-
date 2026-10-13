@@ -1,0 +1,269 @@
+{
+  "a": {
+    "id": "a",
+    "name": "Bold Modern",
+    "note": "Charcoal + coral. Blunt, price-forward copy.",
+    "fontsHref": "https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800&display=swap",
+    "fontDisplay": "\"Archivo\", system-ui, -apple-system, sans-serif",
+    "fontBody": "\"Archivo\", system-ui, -apple-system, sans-serif",
+    "heroMode": "dark",
+    "tokens": {
+      "accent": "#F2655C",
+      "accentDark": "#D9281E",
+      "accentSoft": "#FDEDEB",
+      "ink": "#111111",
+      "ink2": "#55585C",
+      "ink3": "#8A8D92",
+      "bg": "#FFFFFF",
+      "alt": "#F4F1EF",
+      "line": "#E3E0DD",
+      "deep": "#111111",
+      "onAccent": "#111111",
+      "rSm": "6px",
+      "r": "16px",
+      "rLg": "22px",
+      "rPill": "8px",
+      "h1Weight": "800",
+      "h1Case": "uppercase",
+      "h1Track": "-0.035em",
+      "h1Lh": "0.98",
+      "h2Weight": "800",
+      "h2Case": "uppercase",
+      "h2Track": "-0.03em",
+      "bodyLh": "1.65",
+      "eyebrowCase": "uppercase",
+      "eyebrowTrack": "0.16em"
+    },
+    "copy": {
+      "eyebrow": "Houston kitchens &amp; baths",
+      "h1": "Built like <em>it's ours</em>.",
+      "lede": "Fixed written price. A real start date. The same crew in your house every day until it's finished.",
+      "cta1": "Get your fixed price",
+      "cta2": "See finished jobs",
+      "trust": [
+        [
+          "Fixed written price",
+          "Priced line by line before a single tool comes out"
+        ],
+        [
+          "A real start date",
+          "In the contract, not \"sometime next month\""
+        ],
+        [
+          "Same crew daily",
+          "You'll learn their names. They won't disappear"
+        ],
+        [
+          "5-year warranty",
+          "In writing. We come back and fix it"
+        ]
+      ],
+      "aboutEyebrow": "Why people switch to us",
+      "aboutH": "You've probably<br>been burned <em>before</em>",
+      "aboutLede": "Nearly every client we take on has a story about the last contractor.",
+      "aboutP": "Started mid-job and vanished for three weeks. Quoted $38k, billed $61k. Sent a different pair of hands every morning, none of whom knew what yesterday's pair had done. We built this company around not being that.",
+      "ticks": [
+        "One price, agreed in writing, before demolition starts",
+        "Nothing gets added to your bill without your signature",
+        "Floors covered, dust walls up, site swept every evening",
+        "Your project manager's mobile number, not a call centre"
+      ],
+      "aboutCta": "How we work",
+      "servicesEyebrow": "What we do",
+      "servicesH": "Three things. Nothing else.",
+      "servicesLede": "No roofing, no pools, no fences. Interior remodeling only, for eleven years. That's why the tile work looks the way it does.",
+      "baEyebrow": "Before &amp; after",
+      "baH": "Same room. Same angle.",
+      "baLede": "Drag the handle. Nothing staged between the two shots.",
+      "processEyebrow": "How it goes",
+      "processH": "Four steps. No surprises.",
+      "processLede": "You always know what happens next and what it costs.",
+      "galleryEyebrow": "Recent jobs",
+      "galleryH": "Work around Houston",
+      "quotesEyebrow": "What clients say",
+      "areasEyebrow": "Where we work",
+      "areasH": "Houston &amp; nearby",
+      "ctaH": "Want a real number?",
+      "ctaP": "Free in-home estimate, written and itemised. We won't quote you over the phone, because nobody honest can.",
+      "ctaBtn": "Book an estimate"
+    }
+  },
+  "b": {
+    "id": "b",
+    "name": "Editorial Cream",
+    "note": "Cream + warm brown + brass, serif display. Calm, craft-led copy.",
+    "fontsHref": "https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Karla:wght@400;500;600;700&display=swap",
+    "fontDisplay": "\"Instrument Serif\", Georgia, \"Times New Roman\", serif",
+    "fontBody": "\"Karla\", system-ui, -apple-system, sans-serif",
+    "heroMode": "light",
+    "tokens": {
+      "accent": "#8C5E3C",
+      "accentDark": "#6E4830",
+      "accentSoft": "#F0E6DC",
+      "ink": "#22262B",
+      "ink2": "#5C564F",
+      "ink3": "#8F877D",
+      "bg": "#FFFDFB",
+      "alt": "#F6F2EE",
+      "line": "#E2D9CE",
+      "deep": "#2B2520",
+      "onAccent": "#FFFFFF",
+      "rSm": "4px",
+      "r": "6px",
+      "rLg": "8px",
+      "rPill": "999px",
+      "h1Weight": "400",
+      "h1Case": "none",
+      "h1Track": "-0.015em",
+      "h1Lh": "1.02",
+      "h2Weight": "400",
+      "h2Case": "none",
+      "h2Track": "-0.012em",
+      "bodyLh": "1.8",
+      "eyebrowCase": "uppercase",
+      "eyebrowTrack": "0.2em"
+    },
+    "copy": {
+      "eyebrow": "Design &amp; build · Houston",
+      "h1": "Spaces worth<br><em>coming home</em> to.",
+      "lede": "Kitchens, bathrooms and whole-home renovation. One crew from demolition to final walkthrough, and finish work you'll still like in ten years.",
+      "cta1": "Book a consultation",
+      "cta2": "See the portfolio",
+      "trust": [
+        [
+          "Eleven years, one trade",
+          "Interior remodeling only, since 2015"
+        ],
+        [
+          "One crew, start to finish",
+          "The hands that begin your kitchen finish it"
+        ],
+        [
+          "Written, itemised pricing",
+          "Every choice carries its real cost"
+        ],
+        [
+          "Five-year warranty",
+          "Workmanship guaranteed in writing"
+        ]
+      ],
+      "aboutEyebrow": "Our approach",
+      "aboutH": "Good work is mostly<br>what you <em>don't</em> see",
+      "aboutLede": "Anyone can hang a cabinet door. The difference shows up three years later.",
+      "aboutP": "It's whether the shower was waterproofed properly behind the tile. Whether the pan was sloped. Whether someone took the extra hour to shim a run of cabinets dead level instead of close enough. That hour is the whole job.",
+      "ticks": [
+        "Waterproofing and substrate work done to spec, not to schedule",
+        "Cabinetry set level across the full run, every time",
+        "Permits pulled and inspections met under our licence",
+        "A written schedule, and a call before anything moves"
+      ],
+      "aboutCta": "Our process",
+      "servicesEyebrow": "What we do",
+      "servicesH": "Three rooms, done properly",
+      "servicesLede": "We've stayed deliberately narrow. Eleven years of interior remodeling and nothing else — it's the reason the tile work holds up.",
+      "baEyebrow": "Before &amp; after",
+      "baH": "From outdated to <em>outstanding</em>",
+      "baLede": "Real projects, same camera position, nothing staged between the two shots.",
+      "processEyebrow": "How we work",
+      "processH": "Four steps, no surprises",
+      "processLede": "From the first conversation to the last punch-list item, you know what happens next.",
+      "galleryEyebrow": "Recent work",
+      "galleryH": "Projects around Houston",
+      "quotesEyebrow": "In their words",
+      "areasEyebrow": "Where we work",
+      "areasH": "Houston &amp; surrounding",
+      "ctaH": "Let's talk about your house",
+      "ctaP": "A free in-home consultation, a proper measure, and an itemised written estimate. No pressure and no obligation.",
+      "ctaBtn": "Book a consultation"
+    }
+  },
+  "c": {
+    "id": "c",
+    "name": "Slate & Brass",
+    "note": "Deep slate + brass, Playfair display. Reassurance and credentials.",
+    "fontsHref": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700&family=Source+Sans+3:wght@400;500;600;700&display=swap",
+    "fontDisplay": "\"Playfair Display\", Georgia, serif",
+    "fontBody": "\"Source Sans 3\", system-ui, -apple-system, sans-serif",
+    "heroMode": "dark",
+    "tokens": {
+      "accent": "#C08E31",
+      "accentDark": "#9E7324",
+      "accentSoft": "#F7EEDC",
+      "ink": "#222A38",
+      "ink2": "#566072",
+      "ink3": "#7D8696",
+      "bg": "#FFFFFF",
+      "alt": "#F4F6F8",
+      "line": "#DCE1E8",
+      "deep": "#2A3342",
+      "onAccent": "#22293A",
+      "rSm": "2px",
+      "r": "3px",
+      "rLg": "4px",
+      "rPill": "2px",
+      "h1Weight": "600",
+      "h1Case": "none",
+      "h1Track": "-0.01em",
+      "h1Lh": "1.1",
+      "h2Weight": "600",
+      "h2Case": "none",
+      "h2Track": "-0.01em",
+      "bodyLh": "1.7",
+      "eyebrowCase": "uppercase",
+      "eyebrowTrack": "0.18em"
+    },
+    "copy": {
+      "eyebrow": "Licensed general contractor · Houston",
+      "h1": "Remodeling, made<br><em>straightforward</em>.",
+      "lede": "We pull the permits, meet the inspector, run the trades, and hand you back a finished house. Licensed, insured, and warrantied in writing.",
+      "cta1": "Request an estimate",
+      "cta2": "How we work",
+      "trust": [
+        [
+          "Licensed &amp; insured",
+          "Texas general contractor, fully covered"
+        ],
+        [
+          "Permits handled",
+          "We pull them and meet the inspector on site"
+        ],
+        [
+          "Written scope &amp; price",
+          "Itemised before anything is demolished"
+        ],
+        [
+          "Five-year warranty",
+          "Workmanship guaranteed in writing"
+        ]
+      ],
+      "aboutEyebrow": "Who you're hiring",
+      "aboutH": "Eleven years, and still<br>answering the <em>phone</em>",
+      "aboutLede": "Summit is owner-run. Marcus has been on every job since 2015.",
+      "aboutP": "That matters more than it sounds. When something unexpected turns up behind a wall — old wiring, a joist cut badly by someone in 1978 — you want the decision made by the person whose name is on the company, not by a scheduler three cities away.",
+      "ticks": [
+        "Texas-licensed general contractor, fully insured",
+        "Permits, engineer's letters and inspections handled for you",
+        "190 completed projects across Greater Houston",
+        "Written five-year workmanship warranty on every job"
+      ],
+      "aboutCta": "About Summit",
+      "servicesEyebrow": "Our services",
+      "servicesH": "Kitchens, bathrooms, whole homes",
+      "servicesLede": "Interior remodeling across Greater Houston — from a single guest bathroom to a full gut renovation with structural changes.",
+      "baEyebrow": "Before &amp; after",
+      "baH": "The same room, transformed",
+      "baLede": "Real Houston projects, photographed from the same position before and after.",
+      "processEyebrow": "Our process",
+      "processH": "Four steps, clearly explained",
+      "processLede": "You will always know which stage your project is in and what it has cost so far.",
+      "galleryEyebrow": "Our work",
+      "galleryH": "Recent Houston projects",
+      "quotesEyebrow": "Client reviews",
+      "areasEyebrow": "Service area",
+      "areasH": "Greater Houston",
+      "ctaH": "Request your free estimate",
+      "ctaP": "We visit, measure, and send a written itemised estimate. No charge, no obligation, and no pressure to sign anything on the day.",
+      "ctaBtn": "Request an estimate"
+    }
+  }
+}

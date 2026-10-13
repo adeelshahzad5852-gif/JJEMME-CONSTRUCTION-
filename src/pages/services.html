@@ -1,0 +1,58 @@
+<section class="page-hero">
+  <div class="page-hero__bg" style="background-image:{{hero_bg_1}}"></div>
+  <div class="wrap">
+    <div class="crumbs"><a href="index.html">Home</a><span>/</span>Services</div>
+    <h1>What we <em>do</em></h1>
+    <p>Kitchens, bathrooms and whole-home renovations in {{biz.city}}. Licensed, insured, and warrantied in writing for {{biz.warrantyYears}} years.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="section-head section-head--center">
+      <span class="eyebrow">What we do</span>
+      <h2>Three things. Nothing else.</h2>
+      <p class="lede" style="margin-inline:auto">We stay narrow on purpose. Every crew we have does interior remodeling full time — it&#39;s why the finish work holds up.</p>
+    </div>
+    <div class="grid grid--3">{{service_cards}}</div>
+  </div>
+</section>
+
+<section class="section section--alt">
+  <div class="wrap">
+    <div class="section-head section-head--center">
+      <span class="eyebrow">Before &amp; after</span>
+      <h2>Same room. Same <span class="accent">angle</span>.</h2>
+    </div>
+    <div class="grid grid--3">
+      <div class="reveal">{{ba_kitchen_2}}<h3 style="margin-top:18px;font-size:1.2rem">Kitchen</h3></div>
+      <div class="reveal" style="transition-delay:90ms">{{ba_bath_2}}<h3 style="margin-top:18px;font-size:1.2rem">Bathroom</h3></div>
+      <div class="reveal" style="transition-delay:180ms">{{ba_living_2}}<h3 style="margin-top:18px;font-size:1.2rem">Whole home</h3></div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--dark">
+  <div class="wrap">
+    <div class="section-head"><span class="eyebrow">How it goes</span><h2>Four steps. No surprises.</h2></div>
+    <div class="grid grid--4">{{process_steps}}</div>
+  </div>
+</section>
+
+<section class="section section--tight">
+  <div class="wrap">
+    <div class="section-head section-head--center"><span class="eyebrow">Where we work</span><h2>{{biz.city}} &amp; nearby</h2></div>
+    <ul class="areas" style="justify-content:center">{{areas}}</ul>
+  </div>
+</section>
+
+<section class="cta-band">
+  <div class="cta-band__bg" style="background-image:{{hero_bg_2}}"></div>
+  <div class="wrap"><div class="cta-band__inner">
+    <div><h2>Not sure where to start?</h2><p>Tell us what&#39;s bothering you about the space. We&#39;ll walk it with you and put a real number on it.</p></div>
+    <div class="btn-row" style="margin:0">
+      <a class="btn btn--primary" href="contact.html">Book an estimate</a>
+      <a class="btn btn--outline-light" href="tel:{{biz.phoneRaw}}">{{biz.phone}}</a>
+    </div>
+  </div></div>
+</section>
